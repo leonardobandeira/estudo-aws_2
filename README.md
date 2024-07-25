@@ -7,3 +7,7 @@
 
 ### Imagem exemplo
 ![Imagem](diagrama.png)
+
+```
+console.log("Alerta");
+```
