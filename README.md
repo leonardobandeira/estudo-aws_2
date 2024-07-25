@@ -1,7 +1,7 @@
 # estudo-aws_2
 
 **Texto**
-__Italico__
+*italico*
 
 [Link](diagrama.png)
 
