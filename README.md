@@ -8,6 +8,6 @@
 ### Imagem exemplo
 ![Imagem](diagrama.png)
 
-```
+~~~javascript
 console.log("Alerta");
-```
+~~~
